@@ -1,0 +1,5 @@
+1. source : https://coronaboard.kr/ 대한민국 현황
+2. audience : Maybe for people in Korea
+3. Problem
+(1)
+It didn't provide information about color difference. Well, most people think Seoul and 경기 are dangerout, but how about other cities?
